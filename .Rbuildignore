@@ -1,0 +1,10 @@
+^CRAN-RELEASE$
+^docs$
+^_pkgdown\.yml$
+^cran-comments\.md$
+^.*\.Rproj$
+^\.Rproj\.user$
+^revdep$
+^CODE_OF_CONDUCT\.md$
+^\.github$
+^pkgdown$
